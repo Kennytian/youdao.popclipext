@@ -1,0 +1,1 @@
+tell application "System Events"	tell application "有道词典" to activate	key code 6 using {option down}	key code 9 using {command down}	key code 76end tell

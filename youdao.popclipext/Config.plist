@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>AppleScript File</key>
+			<string>youdao.applescript</string>
+			<key>Before</key>
+			<string>copy</string>
+			<key>Image File</key>
+			<string>icon.png</string>
+			<key>Long Running</key>
+			<false/>
+			<key>Requirements</key>
+			<array>
+				<string>copy</string>
+				<string>option-iphone-enabled=1</string>
+			</array>
+			<key>Title</key>
+			<string>有道翻译</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>调用有道词典应用的小窗口查看单词解释</string>
+	<key>Extension Identifier</key>
+	<string>cc.kayanouriko.youdaoTrans</string>
+	<key>Extension Name</key>
+	<string>有道词典快速翻译</string>
+	<key>Options</key>
+	<array>
+		<dict>
+			<key>Option Default Value</key>
+			<string>0</string>
+			<key>Option Identifier</key>
+			<string>kayanourikoYouDao</string>
+			<key>Option Label</key>
+			<string>youdao</string>
+			<key>Option Type</key>
+			<string>boolean</string>
+		</dict>
+	</array>
+	<key>Required Software Version</key>
+	<integer>1</integer>
+</dict>
+</plist>
