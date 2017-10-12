@@ -2,7 +2,7 @@
 
 一个popclip插件
 
-作用:选中单词快速调用有道词典小窗口查看释义
+效果:选中单词快速调用有道词典小窗口查看释义
 
 需要应用:[有道词典](http://cidian.youdao.com/index-mac.html) 
 
